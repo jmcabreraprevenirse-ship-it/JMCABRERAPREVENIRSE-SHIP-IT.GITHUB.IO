@@ -1,0 +1,1 @@
+Versión completa aprobada: inicio dinámico, nosotros, servicios, sectores, flyers, galería y contacto. El logo está integrado en index.html.
