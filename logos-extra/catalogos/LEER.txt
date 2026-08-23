@@ -1,0 +1,1 @@
+Catálogos públicos de PrevenirSE. Para agregar otro rubro, colocar aquí el PDF y agregar su tarjeta en index.html.
